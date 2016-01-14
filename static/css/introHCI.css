@@ -15,11 +15,24 @@ body {
      border: 1px dotted gray;
      padding: 20px;
 }
-
+p {
+    font-variant: small-caps;
+}
 .jumbotron {
 	position: relative;
 	background: none;
 }
+
+
+.project {
+
+margin-left: 20px;
+background-color: #eeeeee;
+padding: 20px;
+width: 525px;
+
+}
+
 
 .jumbotron:after {
      content:"";
